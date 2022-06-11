@@ -1,2 +1,2 @@
 # learning test
-thanks
+thanks !
